@@ -82,7 +82,7 @@
     "AUTO_STATUS__MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*🎉👀 𝙹𝚄𝚂𝚃 𝙽𝙾𝚆 𝚂𝙴𝙴𝙽 𝙱𝚈 𝙱.𝙼.𝙱-𝚇𝙼𝙳🤩🥳😍*"
+      "value": "*🎉👀 𝙹𝚄𝚂𝚃 𝙽𝙾𝚆 𝚂𝙴𝙴𝙽 𝙱𝚈 victor sterling🤩🥳😍*"
     }, 
 
     "OWNER_NAME": {
@@ -94,7 +94,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "255767862457"
+      "value": "254703798555"
  },
 
     "BOT_NAME": {
@@ -138,7 +138,7 @@
     "AUTO_TYPING": {
       "description": "Make it true if you want auto typing.",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
 
     "AUTO_REACT": {
